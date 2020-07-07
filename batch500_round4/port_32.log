@@ -1,0 +1,119 @@
+worker : 1	port num : 32
+kv_num : 260000000
+data size : 29.12GB
+port base : 8033
+
+ ** average runtime : 41016764
+-------------------------------
+worker : 4	port num : 32
+kv_num : 260000000
+data size : 29.12GB
+port base : 8033
+
+ ** average runtime : 15094985
+-------------------------------
+worker : 8	port num : 32
+kv_num : 260000000
+data size : 29.12GB
+port base : 8033
+
+ ** average runtime : 6591997
+-------------------------------
+worker : 12	port num : 32
+kv_num : 260000000
+data size : 29.12GB
+port base : 8033
+
+ ** average runtime : 4723507
+-------------------------------
+worker : 16	port num : 32
+kv_num : 260000000
+data size : 29.12GB
+port base : 8033
+
+ ** average runtime : 5120369
+-------------------------------
+worker : 20	port num : 32
+kv_num : 260000000
+data size : 29.12GB
+port base : 8033
+
+ ** average runtime : 3894543
+-------------------------------
+worker : 24	port num : 32
+kv_num : 260000000
+data size : 29.12GB
+port base : 8033
+
+ ** average runtime : 4102689
+-------------------------------
+worker : 28	port num : 32
+kv_num : 260000000
+data size : 29.12GB
+port base : 8033
+
+ ** average runtime : 3805727
+-------------------------------
+worker : 32	port num : 32
+kv_num : 260000000
+data size : 29.12GB
+port base : 8033
+
+ ** average runtime : 3898423
+-------------------------------
+worker : 36	port num : 32
+kv_num : 260000000
+data size : 29.12GB
+port base : 8033
+
+ ** average runtime : 3826883
+-------------------------------
+worker : 40	port num : 32
+kv_num : 260000000
+data size : 29.12GB
+port base : 8033
+
+ ** average runtime : 3710565
+-------------------------------
+worker : 44	port num : 32
+kv_num : 260000000
+data size : 29.12GB
+port base : 8033
+
+ ** average runtime : 4033445
+-------------------------------
+worker : 48	port num : 32
+kv_num : 260000000
+data size : 29.12GB
+port base : 8033
+
+ ** average runtime : 3703745
+-------------------------------
+worker : 52	port num : 32
+kv_num : 260000000
+data size : 29.12GB
+port base : 8033
+
+ ** average runtime : 3520136
+-------------------------------
+worker : 56	port num : 32
+kv_num : 260000000
+data size : 29.12GB
+port base : 8033
+
+ ** average runtime : 3741451
+-------------------------------
+worker : 60	port num : 32
+kv_num : 260000000
+data size : 29.12GB
+port base : 8033
+
+ ** average runtime : 3539628
+-------------------------------
+worker : 64	port num : 32
+kv_num : 260000000
+data size : 29.12GB
+port base : 8033
+
+ ** average runtime : 3935610
+-------------------------------

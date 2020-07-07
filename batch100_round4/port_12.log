@@ -1,0 +1,119 @@
+worker : 1	port num : 12
+kv_num : 260000000
+data size : 29.12GB
+port base : 8033
+
+ ** average runtime : 48131230
+-------------------------------
+worker : 4	port num : 12
+kv_num : 260000000
+data size : 29.12GB
+port base : 8033
+
+ ** average runtime : 16131251
+-------------------------------
+worker : 8	port num : 12
+kv_num : 260000000
+data size : 29.12GB
+port base : 8033
+
+ ** average runtime : 10849176
+-------------------------------
+worker : 12	port num : 12
+kv_num : 260000000
+data size : 29.12GB
+port base : 8033
+
+ ** average runtime : 7402488
+-------------------------------
+worker : 16	port num : 12
+kv_num : 260000000
+data size : 29.12GB
+port base : 8033
+
+ ** average runtime : 11628422
+-------------------------------
+worker : 20	port num : 12
+kv_num : 260000000
+data size : 29.12GB
+port base : 8033
+
+ ** average runtime : 11147147
+-------------------------------
+worker : 24	port num : 12
+kv_num : 260000000
+data size : 29.12GB
+port base : 8033
+
+ ** average runtime : 13332749
+-------------------------------
+worker : 28	port num : 12
+kv_num : 260000000
+data size : 29.12GB
+port base : 8033
+
+ ** average runtime : 13052509
+-------------------------------
+worker : 32	port num : 12
+kv_num : 260000000
+data size : 29.12GB
+port base : 8033
+
+ ** average runtime : 11137661
+-------------------------------
+worker : 36	port num : 12
+kv_num : 260000000
+data size : 29.12GB
+port base : 8033
+
+ ** average runtime : 8492321
+-------------------------------
+worker : 40	port num : 12
+kv_num : 260000000
+data size : 29.12GB
+port base : 8033
+
+ ** average runtime : 9786358
+-------------------------------
+worker : 44	port num : 12
+kv_num : 260000000
+data size : 29.12GB
+port base : 8033
+
+ ** average runtime : 8060859
+-------------------------------
+worker : 48	port num : 12
+kv_num : 260000000
+data size : 29.12GB
+port base : 8033
+
+ ** average runtime : 9947339
+-------------------------------
+worker : 52	port num : 12
+kv_num : 260000000
+data size : 29.12GB
+port base : 8033
+
+ ** average runtime : 9673671
+-------------------------------
+worker : 56	port num : 12
+kv_num : 260000000
+data size : 29.12GB
+port base : 8033
+
+ ** average runtime : 9897484
+-------------------------------
+worker : 60	port num : 12
+kv_num : 260000000
+data size : 29.12GB
+port base : 8033
+
+ ** average runtime : 9598445
+-------------------------------
+worker : 64	port num : 12
+kv_num : 260000000
+data size : 29.12GB
+port base : 8033
+
+ ** average runtime : 9446147
+-------------------------------
