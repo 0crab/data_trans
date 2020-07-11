@@ -1,0 +1,99 @@
+worker : 1	port num : 64
+kv_num : 260000000
+data size : 29.12GB
+port base : 8033
+round 4 end,g_count 259968000
+round 3 end,g_count 259968000
+round 2 end,g_count 259968000
+round 1 end,g_count 259968000
+
+ ** average runtime : 126474804
+-------------------------------
+worker : 8	port num : 64
+kv_num : 260000000
+data size : 29.12GB
+port base : 8033
+round 4 end,g_count 259968000
+round 3 end,g_count 259968000
+round 2 end,g_count 259968000
+round 1 end,g_count 259968000
+
+ ** average runtime : 33899143
+-------------------------------
+worker : 16	port num : 64
+kv_num : 260000000
+data size : 29.12GB
+port base : 8033
+round 4 end,g_count 259968000
+round 3 end,g_count 259968000
+round 2 end,g_count 259968000
+round 1 end,g_count 259968000
+
+ ** average runtime : 25788450
+-------------------------------
+worker : 24	port num : 64
+kv_num : 260000000
+data size : 29.12GB
+port base : 8033
+round 4 end,g_count 259968000
+round 3 end,g_count 259968000
+round 2 end,g_count 259968000
+round 1 end,g_count 259968000
+
+ ** average runtime : 24713956
+-------------------------------
+worker : 32	port num : 64
+kv_num : 260000000
+data size : 29.12GB
+port base : 8033
+round 4 end,g_count 259968000
+round 3 end,g_count 259968000
+round 2 end,g_count 259968000
+round 1 end,g_count 259968000
+
+ ** average runtime : 20935378
+-------------------------------
+worker : 40	port num : 64
+kv_num : 260000000
+data size : 29.12GB
+port base : 8033
+round 4 end,g_count 259968000
+round 3 end,g_count 259968000
+round 2 end,g_count 259968000
+round 1 end,g_count 259968000
+
+ ** average runtime : 22464437
+-------------------------------
+worker : 48	port num : 64
+kv_num : 260000000
+data size : 29.12GB
+port base : 8033
+round 4 end,g_count 259968000
+round 3 end,g_count 259968000
+round 2 end,g_count 259968000
+round 1 end,g_count 259968000
+
+ ** average runtime : 19967648
+-------------------------------
+worker : 56	port num : 64
+kv_num : 260000000
+data size : 29.12GB
+port base : 8033
+round 4 end,g_count 259968000
+round 3 end,g_count 259968000
+round 2 end,g_count 259968000
+round 1 end,g_count 259968000
+
+ ** average runtime : 17958223
+-------------------------------
+worker : 64	port num : 64
+kv_num : 260000000
+data size : 29.12GB
+port base : 8033
+round 4 end,g_count 259968000
+round 3 end,g_count 259968000
+round 2 end,g_count 259968000
+round 1 end,g_count 259968000
+
+ ** average runtime : 20053716
+-------------------------------
